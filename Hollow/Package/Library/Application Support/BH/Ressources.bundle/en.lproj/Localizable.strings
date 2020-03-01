@@ -1,0 +1,97 @@
+"downloaded_library" = "Downloaded library";
+
+"downloading" = "Downloading";
+
+"import_to_library" = "Import to library";
+
+"import_song" = "import song";
+
+"song_name" = "Song name";
+
+"apple_music" = "Apple Music";
+
+"import_video_to_music" = "Import video to music";
+
+"video_name" = "Video name";
+
+"artist_name" = "Artist name";
+
+"album_name" = "Album name";
+
+"genre" = "Genre";
+
+"make_new_thumbnail" = "Make new thumbnail";
+
+"error_import" = "Sorry but this feature not support your device(A12)";
+
+"please_wait_for_loading_video_information" = "Please wait for loading video information";
+
+"import_with_custom_image" = "Import with custom image";
+
+"import_with_video_image" = "Import with video image";
+
+"import_with_out_image" = "Import with out image";
+
+"select_song_image" = "Select song image";
+
+"import" = "Import";
+
+"cancel" = "Cancel";
+
+"camera_roll" = "Camera Roll";
+
+"error_save_video" = "Error save video";
+
+"success_save_video" = "Success save video";
+
+"share" = "Share";
+
+"remove" = "Remove";
+
+"rename" = "Rename";
+
+"write_new_name_to_this_video" = "Write new name to this video";
+
+"write_new_name_to_this_audio" = "Write new name to this audio";
+
+"convert_to_audio" = "Convert to audio";
+
+"downloading_video...." = "Downloading Video....";
+
+"downloading_audio...." = "Downloading Audio....";
+
+"done" = "Done";
+
+"video" = "Video";
+
+"audio" = "Audio";
+
+"preferences" = "Preferences";
+
+"select_download_server" = "Select download server";
+
+"server_1" = "Server 1 (better, all qualitys)";
+
+"server_2" = "Server 2 (Audio, SD, 720p, 1080p)";
+
+"sort_library_by_recently_added" = "Sort library by recently added";
+
+"contact_me" = "Contact me";
+
+"settings" = "Settings";
+
+"error_exporting" = "Error exporting";
+
+
+"please_go_to_setting_and_set_which_server_you_want_download_from" = "Please go to setting and set which server you want download from.";
+
+
+"please_wait_3_second_before_click_button" = "Please wait 3 second before click button.";
+
+"the_video_supports_these_Qualitys" = "The video supports these Qualitys 👇";
+
+"sorry_but_you_must_be_download_videos_1_by_1" = "sorry but you must be download videos 1 by 1";
+
+"close_button" = "Minimize";
+
+"notification_content" = "Success download";

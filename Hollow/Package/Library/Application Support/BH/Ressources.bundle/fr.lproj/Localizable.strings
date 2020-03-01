@@ -1,0 +1,95 @@
+"downloaded_library" = "téléchargée la Bibliothèque";
+
+"downloading" = "Téléchargement";
+
+"import_to_library" = "Importer dans la bibliothèque";
+
+"import_song" = "importer une music";
+
+"song_name" = "Titre de chanson";
+
+"apple_music" = "Apple Music";
+
+"import_video_to_music" = "Importer de la vidéo en musique";
+
+"video_name" = "Nom de la vidéo";
+
+"artist_name" = "Nom d'artiste";
+
+"album_name" = "Nom de l'album";
+
+"genre" = "Genre";
+
+"make_new_thumbnail" = "Faire une nouvelle vignette";
+
+"error_import" = "Désolé, mais cette fonctionnalité ne prend pas en charge votre appareil (A12)";
+
+"please_wait_for_loading_video_information" = "Veuillez patienter pour charger les informations vidéo";
+
+"import_with_custom_image" = "Importer avec une image personnalisée";
+
+"import_with_video_image" = "Importer avec une image vidéo";
+
+"import_with_out_image" = "Importer sans image";
+
+"select_song_image" = "Sélectionnez l'image de la chanson";
+
+"import" = "Importer";
+
+"cancel" = "Annuler";
+
+"camera_roll" = "Pellicule";
+
+"error_save_video" = "Erreur d'enregistrement de la vidéo";
+
+"success_save_video" = "Video sauvegardé avec succès";
+
+"share" = "Partager";
+
+"remove" = "Retirer";
+
+"rename" = "Renommer";
+
+"write_new_name_to_this_video" = "Ecrire un nouveau nom pour cette vidéo";
+
+"write_new_name_to_this_audio" = "Ecrire un nouveau nom pour cet audio";
+
+"convert_to_audio" = "Convertir en audio";
+
+"downloading_video...." = "Téléchargement de la vidéo ....";
+
+"downloading_audio...." = "Téléchargement audio .... ";
+
+"done" = "Fait";
+
+"video" = "Video";
+
+"audio" = "Audio";
+
+"preferences" = "Préférences";
+
+"select_download_server" = "Sélectionnez le serveur de téléchargement";
+
+"server_1" = "Serveur 1 (meilleur, toutes qualités)";
+
+"server_2" = "Serveur 2 (Audio, SD, 720p, 1080p)";
+
+"sort_library_by_recently_added" = "Trier la bibliothèque par récemment ajouté";
+
+"contact_me" = "Contactez moi";
+
+"settings" = "Réglages";
+
+"error_exporting" = "Erreur lors de l'exportation";
+
+
+"please_go_to_setting_and_set_which_server_you_want_download_from" = "S'il vous plaît aller à la configuration et définir quel serveur vous voulez télécharger.";
+
+
+"please_wait_3_second_before_click_button" = "Veuillez patienter 3 secondes avant de cliquer sur le bouton.";
+
+"the_video_supports_these_Qualitys" = "La vidéo soutient ces qualités👇";
+
+"sorry_but_you_must_be_download_videos_1_by_1" = "désolé mais vous devez télécharger les vidéos 1 par 1";
+
+"close_button" = "Minimize";

@@ -1,0 +1,9 @@
+Package: com.BandarHL.Hollow
+Name: Hollow
+Version: 2.5
+Description: Download YouTube videos and more!
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate, com.bandarhelal.libpip, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Architecture: iphoneos-arm
+Author: BandarHelal <bandarhelal180@gmail.com>
+maintainer: Relany Repo
